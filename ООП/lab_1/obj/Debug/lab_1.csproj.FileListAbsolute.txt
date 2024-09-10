@@ -1,0 +1,7 @@
+C:\Users\histo\OneDrive\Рабочий стол\3_СЕМ_ЛАБЫ\ООП\lab_1\bin\Debug\lab_1.exe.config
+C:\Users\histo\OneDrive\Рабочий стол\3_СЕМ_ЛАБЫ\ООП\lab_1\bin\Debug\lab_1.exe
+C:\Users\histo\OneDrive\Рабочий стол\3_СЕМ_ЛАБЫ\ООП\lab_1\bin\Debug\lab_1.pdb
+C:\Users\histo\OneDrive\Рабочий стол\3_СЕМ_ЛАБЫ\ООП\lab_1\obj\Debug\lab_1.csproj.AssemblyReference.cache
+C:\Users\histo\OneDrive\Рабочий стол\3_СЕМ_ЛАБЫ\ООП\lab_1\obj\Debug\lab_1.csproj.CoreCompileInputs.cache
+C:\Users\histo\OneDrive\Рабочий стол\3_СЕМ_ЛАБЫ\ООП\lab_1\obj\Debug\lab_1.exe
+C:\Users\histo\OneDrive\Рабочий стол\3_СЕМ_ЛАБЫ\ООП\lab_1\obj\Debug\lab_1.pdb
