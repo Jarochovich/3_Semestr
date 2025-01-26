@@ -1,0 +1,18 @@
+Имя сборки: lab_11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Имеет публичные конструкторы: True
+Публичные методы: get_FirstName, set_FirstName, get_Surname, set_Surname, get_LastName, set_LastName, get_Adress, set_Adress, get_CreditCardNumber, set_CreditCardNumber, get_Balance, set_Balance, GetFirstName, Print, DebitFromAccount, AccrualToAccount, IncrementCalls, PrintNumCalls, UpdateBalance, PrintSortedCustomers, PrintFilteredCustomers, Equals, GetHashCode, GetType, ToString
+Поля и свойства: FirstName, Surname, LastName, Adress, CreditCardNumber, Balance
+Реализованные интерфейсы: ICustomer
+Методы с типом параметра String: set_FirstName, set_Surname, set_LastName, set_Adress, set_CreditCardNumber, PrintFilteredCustomers
+Имя сборки: lab_11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Имеет публичные конструкторы: True
+Публичные методы: get_FirstName, set_FirstName, get_Surname, set_Surname, get_LastName, set_LastName, get_Adress, set_Adress, get_CreditCardNumber, set_CreditCardNumber, get_Balance, set_Balance, GetFirstName, Print, DebitFromAccount, AccrualToAccount, IncrementCalls, PrintNumCalls, UpdateBalance, PrintSortedCustomers, PrintFilteredCustomers, Equals, GetHashCode, GetType, ToString
+Поля и свойства: FirstName, Surname, LastName, Adress, CreditCardNumber, Balance
+Реализованные интерфейсы: ICustomer
+Методы с типом параметра String: set_FirstName, set_Surname, set_LastName, set_Adress, set_CreditCardNumber, PrintFilteredCustomers
+Имя сборки: lab_11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Имеет публичные конструкторы: True
+Публичные методы: get_FirstName, set_FirstName, get_Surname, set_Surname, get_LastName, set_LastName, get_Adress, set_Adress, get_CreditCardNumber, set_CreditCardNumber, get_Balance, set_Balance, GetFirstName, Print, DebitFromAccount, AccrualToAccount, IncrementCalls, PrintNumCalls, UpdateBalance, PrintSortedCustomers, PrintFilteredCustomers, Equals, GetHashCode, GetType, ToString
+Поля и свойства: FirstName, Surname, LastName, Adress, CreditCardNumber, Balance
+Реализованные интерфейсы: ICustomer
+Методы с типом параметра String: set_FirstName, set_Surname, set_LastName, set_Adress, set_CreditCardNumber, PrintFilteredCustomers

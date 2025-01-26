@@ -1,0 +1,18 @@
+Имя сборки: lab_11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Имеет публичные конструкторы: False
+Публичные методы: ChangeDate, Clear, Print, GetInfoSinger, GetInfoConcert
+Поля и свойства: 
+Реализованные интерфейсы: 
+Методы с типом параметра String: ChangeDate
+Имя сборки: lab_11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Имеет публичные конструкторы: False
+Публичные методы: ChangeDate, Clear, Print, GetInfoSinger, GetInfoConcert
+Поля и свойства: 
+Реализованные интерфейсы: 
+Методы с типом параметра String: ChangeDate
+Имя сборки: lab_11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Имеет публичные конструкторы: False
+Публичные методы: ChangeDate, Clear, Print, GetInfoSinger, GetInfoConcert
+Поля и свойства: 
+Реализованные интерфейсы: 
+Методы с типом параметра String: ChangeDate

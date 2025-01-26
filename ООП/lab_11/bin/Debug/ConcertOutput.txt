@@ -1,0 +1,18 @@
+Имя сборки: lab_11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Имеет публичные конструкторы: True
+Публичные методы: GetInfoSinger, GetInfoConcert, GetNameSinger, ChangeDate, Clear, Print, Equals, GetHashCode, GetType, ToString
+Поля и свойства: 
+Реализованные интерфейсы: IList
+Методы с типом параметра String: ChangeDate
+Имя сборки: lab_11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Имеет публичные конструкторы: True
+Публичные методы: GetInfoSinger, GetInfoConcert, GetNameSinger, ChangeDate, Clear, Print, Equals, GetHashCode, GetType, ToString
+Поля и свойства: 
+Реализованные интерфейсы: IList
+Методы с типом параметра String: ChangeDate
+Имя сборки: lab_11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Имеет публичные конструкторы: True
+Публичные методы: GetInfoSinger, GetInfoConcert, GetNameSinger, ChangeDate, Clear, Print, Equals, GetHashCode, GetType, ToString
+Поля и свойства: 
+Реализованные интерфейсы: IList
+Методы с типом параметра String: ChangeDate
