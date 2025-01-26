@@ -1,0 +1,7 @@
+C:\Users\yarok\Desktop\Стасян\3_СЕМ_ЛАБЫ\ООП\lab_14\bin\Release\lab_14.exe.config
+C:\Users\yarok\Desktop\Стасян\3_СЕМ_ЛАБЫ\ООП\lab_14\bin\Release\lab_14.exe
+C:\Users\yarok\Desktop\Стасян\3_СЕМ_ЛАБЫ\ООП\lab_14\bin\Release\lab_14.pdb
+C:\Users\yarok\Desktop\Стасян\3_СЕМ_ЛАБЫ\ООП\lab_14\obj\Release\lab_14.csproj.AssemblyReference.cache
+C:\Users\yarok\Desktop\Стасян\3_СЕМ_ЛАБЫ\ООП\lab_14\obj\Release\lab_14.csproj.CoreCompileInputs.cache
+C:\Users\yarok\Desktop\Стасян\3_СЕМ_ЛАБЫ\ООП\lab_14\obj\Release\lab_14.exe
+C:\Users\yarok\Desktop\Стасян\3_СЕМ_ЛАБЫ\ООП\lab_14\obj\Release\lab_14.pdb

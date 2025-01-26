@@ -1,0 +1,86 @@
+
+	Свободное место на дисках
+Название диска: C:\
+Всего места на диске (байт): 339313057792
+Свободное место (байт): 6185447424
+
+Название диска: D:\
+Всего места на диске (байт): 165614362624
+Свободное место (байт): 58133082112
+
+	Информация о файловой системе
+Название диска: C:\
+Тип файловой системы: Fixed
+Метка тома: 
+Готов ли диск: True
+
+Название диска: D:\
+Тип файловой системы: Fixed
+Метка тома: 
+Готов ли диск: True
+
+	Полный путь к файлу
+Полный путь к файлу JSAlogfile.txt: C:\Users\yarok\Desktop\Стасян\3_СЕМ_ЛАБЫ\ООП\lab_12\bin\Debug
+
+	Общая информация о файле
+Размер файла JSAlogfile.txt: 865
+Расширение файла JSAlogfile.txt: .txt
+Имя файла: JSAlogfile.txt
+
+	Время и дата создания/изменения
+Дата создания: 25.11.2024 23:51:04
+Дата изменения: 04.12.2024 18:07:25
+
+	Список файлов каталога C:\Users\yarok\Desktop\Стасян\3_СЕМ_ЛАБЫ\ООП\lab_12\bin\Debug\
+C:\Users\yarok\Desktop\Стасян\3_СЕМ_ЛАБЫ\ООП\lab_12\bin\Debug\JSAFiles.zip
+C:\Users\yarok\Desktop\Стасян\3_СЕМ_ЛАБЫ\ООП\lab_12\bin\Debug\JSAlogfile.txt
+C:\Users\yarok\Desktop\Стасян\3_СЕМ_ЛАБЫ\ООП\lab_12\bin\Debug\lab_12.exe
+C:\Users\yarok\Desktop\Стасян\3_СЕМ_ЛАБЫ\ООП\lab_12\bin\Debug\lab_12.exe.config
+C:\Users\yarok\Desktop\Стасян\3_СЕМ_ЛАБЫ\ООП\lab_12\bin\Debug\lab_12.pdb
+C:\Users\yarok\Desktop\Стасян\3_СЕМ_ЛАБЫ\ООП\lab_12\bin\Debug\SixTaskYSAlogfile.txt
+Количество файлов: 6
+
+	Время создания
+Время создания: 25.11.2024 23:39:00
+
+	Поддиректории
+C:\Users\yarok\Desktop\Стасян\3_СЕМ_ЛАБЫ\ООП\lab_12\bin\Debug\JSAFiles
+C:\Users\yarok\Desktop\Стасян\3_СЕМ_ЛАБЫ\ООП\lab_12\bin\Debug\JSAInspect
+C:\Users\yarok\Desktop\Стасян\3_СЕМ_ЛАБЫ\ООП\lab_12\bin\Debug\zipFiles
+
+	Количество поддиректориев
+3
+
+	Родительская директория
+C:\Users\yarok\Desktop\Стасян\3_СЕМ_ЛАБЫ\ООП\lab_12\bin\Debug
+
+	Список файлов и каталогов
+C:\Users\yarok\Desktop\Стасян\3_СЕМ_ЛАБЫ
+C:\Users\yarok\Desktop\Стасян\js
+C:\Users\yarok\Desktop\Стасян\Knig1(АвтоматическиВосстановлено).xlsx
+C:\Users\yarok\Desktop\Стасян\Oracle VM VirtualBox.lnk
+C:\Users\yarok\Desktop\Стасян\Oracle_VM_VirtualBox_Extension_Pack-7.0.20.vbox-extpack
+C:\Users\yarok\Desktop\Стасян\VB
+C:\Users\yarok\Desktop\Стасян\~$1 Крит Пирсона_задания.doc
+C:\Users\yarok\Desktop\Стасян\~$Knig1.xlsx
+C:\Users\yarok\Desktop\Стасян\АИСД
+C:\Users\yarok\Desktop\Стасян\КП_КПО
+C:\Users\yarok\Desktop\Стасян\КПО
+C:\Users\yarok\Desktop\Стасян\КСИС
+C:\Users\yarok\Desktop\Стасян\Курсовой_КПО
+C:\Users\yarok\Desktop\Стасян\ООП
+C:\Users\yarok\Desktop\Стасян\Пьянные танцы.m4a
+C:\Users\yarok\Desktop\Стасян\с#
+C:\Users\yarok\Desktop\Стасян\СЯП
+C:\Users\yarok\Desktop\Стасян\ТерВер
+
+Директория JSAInspect создана!
+Файл JSAdirinfo.txt создан!
+	Список файлов каталога C:\Users\yarok\Desktop\Стасян\3_СЕМ_ЛАБЫ\ООП\lab_12\bin\Debug\
+
+C:\Users\yarok\Desktop\Стасян\3_СЕМ_ЛАБЫ\ООП\lab_12\bin\Debug\JSAlogfile.txt
+C:\Users\yarok\Desktop\Стасян\3_СЕМ_ЛАБЫ\ООП\lab_12\bin\Debug\SixTaskYSAlogfile.txt
+Файл "C:\Users\yarok\Desktop\Стасян\3_СЕМ_ЛАБЫ\ООП\lab_12\bin\Debug\JSAFiles.zip" уже существует.
+
+Количество записей: 0
+Файл обновлен. Оставлены только записи за текущий час.
